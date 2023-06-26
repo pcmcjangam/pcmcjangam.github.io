@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: पिंपरी-चिंचवड जंगम समाज संस्था
+title: पिंपरी-चिंचवड शहर जंगम समाज संस्था
 email: pcmcjangam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  पिंपरी-चिंचवड जंगम समाज संस्था, गांधी पेठ, चिंचवडगांव.
+  पिंपरी-चिंचवड शहर जंगम समाज संस्था, गांधी पेठ, चिंचवडगांव.
 twitter_username: username
 github_username: pcmcjangam@github.com
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "पिंपरी-चिंचवड जंगम समाज संस्था"
+  name   : "पिंपरी-चिंचवड शहर जंगम समाज संस्था"
   avatar : "/assets/images/pcmc_jangam_logo.jpg"
-  bio    : "रजि. नं. महाराष्ट्र ६४०/२०११/पुणे दि. ८/४/२०११."
+  bio    : "महाराष्ट्र ६४०/२०११/पुणे दि. ८/४/२०११"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
