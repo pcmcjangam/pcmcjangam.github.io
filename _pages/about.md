@@ -1,8 +1,22 @@
 ---
 permalink: /about/
-title: "About"
+title: "आमच्या विषयी"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+संस्थेचे उद्देश्य आणि रचना: 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+पिंपरी-चिंचवड शहर जंगम समाज संस्था हि पिंपरी-चिंचवडच्या जंगम समाज बंधू आणि भगिनींनी मिळून चालू केलेली एक सामाजिक संस्था आहे. 
+आपल्या संस्थेचा मूळ उद्देश हा समाज बांधवांना एकत्र आणून अनेक विविध समाज-उपयोगी राबवणे, सामाजिक बांधिलकी तयार करणे आणि इतर 
+अनेक सांस्कृतिक कार्यक्रम राबविणे असा आहे. 
+
+आपल्या पिंपरी-चिंचवड शहरामध्ये महाराष्ट्र राजातल्या अनेक जिल्ह्यातून जंगम समाज हा एकत्र झालेला आहे. आज पर्यंत, ह्या विखुरलेल्या समाजाला 
+एकत्र आणण्यासाठी असे एक सामायिक व्यासपीठ नव्हते. आपण ह्या संस्थेच्या माध्यमातून आपल्या सर्व समाजाला एकमेकांची ओळख होईल आणि 
+इतर अनेक कारणांसाठी आपल्या संस्थेचा उपयोग होणार आहे आणि होत आहे. 
+
+सुरवातीच्या काळात स्वयंप्रेरणेतून चालू झालेली संस्था आजमितीला हि महाराष्ट्र सरकार मान्यताप्राप्त सहकारी संस्था आहे. ह्या संस्थेच्या माध्यमातून 
+आपण अनेक कार्यक्रम राबवत असतो त्या सर्व कार्यक्रमांच्या आर्थिक बाबी आणि नियोजन हे सहकारी कायद्याच्या नियमानुसार होते. 
+
+आपण सर्व समाज बांधवांनी पुढे येऊनय आपल्या संस्थेच्या आणि संचाच्या सर्वांगीण वाढीसाठी पुढे येऊन सहकार्य करावी हि कळकळीची नम्र विनंती. 
+आपण सर्वजण ह्या कामी मदत कराल हि अपेक्षा. 
+
+-- पिंपरी-चिंचवड शहर जंगम समाज संस्था. 
