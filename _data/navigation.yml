@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "ताज्या घडामोडी"
     url: /posts/
-  - title: "Categories"
+  - title: "माहितीचे गट"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "आमच्या विषयी"
     url: /about/
