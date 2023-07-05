@@ -3,5 +3,7 @@ main:
     url: /posts/
   - title: "माहितीचे गट"
     url: /categories/
-  - title: "संस्थे विषयी"
+  - title: "कार्यकारिणी"
+    url: /committee/
+  - title: "संस्थेविषयी"
     url: /about/
