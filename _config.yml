@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: पिंपरी-चिंचवड शहर जंगम समाज संस्था
+title: 
 email: pcmcjangam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   पिंपरी-चिंचवड शहर जंगम समाज संस्था, गांधी पेठ, चिंचवडगांव.
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "पिंपरी-चिंचवड शहर जंगम समाज संस्था"
   avatar : "/assets/images/pcmc_jangam_logo.jpg"
-  bio    : "महाराष्ट्र ६४०/२०११/पुणे दि. ८/४/२०११"
+  bio    : "महाराष्ट्र ६४०/२०११/एफ-३४२८९/पुणे, ८/४/२०११"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
