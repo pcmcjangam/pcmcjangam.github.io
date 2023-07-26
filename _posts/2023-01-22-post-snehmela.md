@@ -1,5 +1,5 @@
 ---
-title: "स्नेहमेळा जानेवारी २०२३"
+title: "निमंत्रण पत्रिका - स्नेहमेळा जानेवारी २०२३"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
