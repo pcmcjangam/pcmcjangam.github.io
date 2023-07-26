@@ -17,6 +17,6 @@ title: "वधू-वर सूचक मंडळ"
 | मा. मु. विजय जंगम      | अध्यक्ष       | ९७६७२७८५०५    |                        |                       
 
 <figure>
-  <img src="/assets/images/vadhuvar_mela_2023/vadhu-var-mela-detailed.jpg" alt="Snow" style="width:80%">
+  <img src="/assets/images/vadhuvar_mela_2023/vadhu-var-mela-detailed.jpg" alt="Snow" style="width:100%">
   <figcaption>माहिती पत्रक - वधू-वर सूचक मंडळ - नियमावली</figcaption>
 </figure>
