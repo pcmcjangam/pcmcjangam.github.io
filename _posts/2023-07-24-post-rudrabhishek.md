@@ -22,4 +22,4 @@ tags:
 वेळ: सोमवार २४/०७/२०२३,सकाळी ८ ते ११ वाजेपर्यंत. 
 स्थळ: विठ्ठल महादेव मंदिर, गांधी पेठ, चिंचवडगाव. 
 
-![Book logo](/pcmcjangam.github.io/assets/images/pcmc_jangam_logo.jpg)
+![रुद्राभिषेक जुलै २०२३](/assets/images/rudrabhishek_2023.PNG) 
