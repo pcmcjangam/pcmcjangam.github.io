@@ -22,4 +22,4 @@ tags:
 वेळ: सोमवार २४/०७/२०२३,सकाळी ८ ते ११ वाजेपर्यंत. 
 स्थळ: विठ्ठल महादेव मंदिर, गांधी पेठ, चिंचवडगाव. 
 
-<img src="/assets/images/rudrabhishek/rudrabhishek_2023.PNG" alt="drawing" width="400"/>
+<img src="/assets/images/rudrabhishek/rudrabhishek_2023.PNG" alt="drawing" width="500"/>
