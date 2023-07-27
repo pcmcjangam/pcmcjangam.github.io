@@ -1,5 +1,5 @@
 ---
-title: "निमंत्रण पत्रिका - रुद्राभिषेक जुलै २०२३"
+title: "निमंत्रण - रुद्राभिषेक जुलै २०२३"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
