@@ -25,9 +25,15 @@ tags:
   <img src="/assets/images/snehmela_2023/vidyarthi_gaurav_1.jpg" alt="Snow" style="width:50%">
   <figcaption>श्री. जगदीश जंगम कार्यक्रमाची रूपरेषा सांगताना.</figcaption>
 
+  <img src="/assets/images/snehmela_2023/vidyarthi_gaurav_1b.jpg" alt="Snow" style="width:50%">
+  <figcaption>प्रमुख पाहुणे श्री. धाणेश स्वामी आपले मनोगत व्यक्त करताना.</figcaption>
+
   <img src="/assets/images/snehmela_2023/vidyarthi_gaurav_2.jpg" alt="Snow" style="width:50%">
   <figcaption>प. ब्र. १०८ श्री. गुरुसिद्ध दहिवडकर महाराज गुणवंत विद्यार्थिनीचा सत्कार करताना</figcaption>
 
+  <img src="/assets/images/snehmela_2023/vidyarthi_gaurav_2b.jpg" alt="Snow" style="width:50%">
+  <figcaption>श्री. धाणेश स्वामी गुणवंत विद्यार्थिनीचा सत्कार करताना.</figcaption>
+  
   <img src="/assets/images/snehmela_2023/vidyarthi_gaurav_3.jpg" alt="Snow" style="width:50%">
   <figcaption>श्री. श्रवण स्वामी गुणवंत विद्यार्थिनीचा सत्कार करताना</figcaption>
 
