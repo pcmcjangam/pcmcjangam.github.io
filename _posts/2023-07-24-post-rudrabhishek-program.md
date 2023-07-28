@@ -30,7 +30,7 @@ tags:
   <figcaption>श्री. अनिकेत जंगम स्वामींचा सत्कार करताना.</figcaption>
 
   <img src="/assets/images/rudrabhishek/Rudrabhishek_4.jpg" alt="Snow" style="width:75%">
-  <figcaption>सौ. अपर्णा जंगम स्वामींचा सत्कार करताना.</figcaption>
+  <figcaption>सौ. संध्याताई स्वामी स्वामींचा सत्कार करताना.</figcaption>
   
   <img src="/assets/images/rudrabhishek/Rudrabhishek_5.jpg" alt="Snow" style="width:75%">
   <figcaption>श्री. संदीप जंगम स्वामींचा सत्कार करताना.</figcaption>
