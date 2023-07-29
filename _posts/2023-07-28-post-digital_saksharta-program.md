@@ -35,14 +35,14 @@ tags:
   <figcaption>श्रीमती अस्मिता गडचे  महिला वर्गाला मार्गदर्शन करताना.</figcaption>
   
   <img src="/assets/images/digital_shibir_2023/mahila_mandal_2.jpg" alt="Snow" style="width:85%">
-  <figcaption>डिजिटल व आर्थिक साक्षर शिबिरात आलेले प्रमुख पाहुणे आणि मार्गदर्शक  - १.</figcaption>
+  <figcaption>डिजिटल व आर्थिक साक्षर शिबिरात आलेले प्रमुख पाहुणे आणि मार्गदर्शक - १.</figcaption>
 
   <img src="/assets/images/digital_shibir_2023/mahila_mandal_1.jpg" alt="Snow" style="width:85%">
   <figcaption>>डिजिटल व आर्थिक साक्षर शिबिरात आलेले प्रमुख पाहुणे आणि मार्गदर्शक - २.</figcaption>
 
   <img src="/assets/images/digital_shibir_2023/mahila_mandal_4.jpg" alt="Snow" style="width:85%">
-  <figcaption>डिजिटल व आर्थिक साक्षर दाखल झालेला  महिला वर्गा - २.</figcaption>
+  <figcaption>डिजिटल व आर्थिक साक्षर दाखल झालेला  महिला वर्ग - १.</figcaption>
 
   <img src="/assets/images/digital_shibir_2023/mahila_mandal_5.jpg" alt="Snow" style="width:85%">
-  <figcaption>डिजिटल व आर्थिक साक्षर दाखल झालेला  महिला वर्गा - २.</figcaption>
+  <figcaption>डिजिटल व आर्थिक साक्षर दाखल झालेला  महिला वर्ग - २.</figcaption>
 </figure>  
