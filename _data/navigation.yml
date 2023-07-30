@@ -11,5 +11,7 @@ main:
     url: /yuvamandal/
   - title: "कार्यकारिणी"
     url: /committee/
+  - title: "महत्वाच्या नोंदी"
+    url: /records/
   - title: "संस्थेविषयी"
     url: /about/
