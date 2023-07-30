@@ -8,7 +8,7 @@ title: "व्हिजन-३६५ - महाराष्ट्र जंग�
 <hr>
 <center>
   <figure>
-    <img src="/assets/images/vision365/vision_365_poster.jpg" alt="Snow" style="width:60%">
+    <img src="/assets/images/vision365/vision_365_poster.jpg" alt="Snow" style="width:80%">
     <figcaption>व्हिजन-३६५ - महाराष्ट्र जंगम भवन नियोजित नमुना प्रतिकृती.</figcaption>
   </figure>
 </center>
