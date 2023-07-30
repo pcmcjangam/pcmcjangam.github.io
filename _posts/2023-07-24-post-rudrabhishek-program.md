@@ -21,22 +21,22 @@ tags:
 
 <figure>
   <img src="/assets/images/rudrabhishek/Rudrabhishek_1.jpg" alt="Snow" style="width:75%">
-  <figcaption>संस्थेचे अध्यक्ष्य श्री. विजय जंगम स्वामींचा सत्कार करताना.</figcaption>
+  <figcaption>संस्थेचे अध्यक्ष्य श्री. विजय जंगम श्री. राजेंद्र जंगम स्वामींचा सत्कार करताना.</figcaption>
 
   <img src="/assets/images/rudrabhishek/Rudrabhishek_2.jpg" alt="Snow" style="width:75%">
-  <figcaption>श्री. जगदीश जंगम स्वामींचा सत्कार करताना.</figcaption>
+  <figcaption>श्री. जगदीश जंगम श्री. सूर्यकांत कुरुलकर आणि सिद्धेश्वर मठपती स्वामींचा सत्कार करताना.</figcaption>
 
   <img src="/assets/images/rudrabhishek/Rudrabhishek_3.jpg" alt="Snow" style="width:75%">
-  <figcaption>श्री. अनिकेत जंगम स्वामींचा सत्कार करताना.</figcaption>
+  <figcaption>श्री. अनिकेत जंगम श्री. महादेव स्वामींचा सत्कार करताना.</figcaption>
 
   <img src="/assets/images/rudrabhishek/Rudrabhishek_4.jpg" alt="Snow" style="width:75%">
-  <figcaption>सौ. संध्याताई स्वामी स्वामींचा सत्कार करताना.</figcaption>
+  <figcaption>सौ. संध्याताई स्वामी श्री. अमोल स्वामींचा सत्कार करताना.</figcaption>
   
   <img src="/assets/images/rudrabhishek/Rudrabhishek_5.jpg" alt="Snow" style="width:75%">
-  <figcaption>श्री. संदीप जंगम स्वामींचा सत्कार करताना.</figcaption>
+  <figcaption>श्री. संदीप जंगम श्री. मन्मथ स्वामींचा सत्कार करताना.</figcaption>
 
   <img src="/assets/images/rudrabhishek/Rudrabhishek_6.jpg" alt="Snow" style="width:75%">
-  <figcaption>श्री. बसय्या हत्तूरमठ स्वामींचा सत्कार करताना.</figcaption>
+  <figcaption>श्री. बसय्या हत्तूरमठ श्री. प्रदीप स्वामींचा सत्कार करताना.</figcaption>
 
   <img src="/assets/images/rudrabhishek/Rudrabhishek_7.jpg" alt="Snow" style="width:75%">
   <figcaption>संस्थेचे अध्यक्ष श्री. विजय जंगम सपत्नीक शंभो-महादेवाचा रुद्राभिषेक करताना.</figcaption>
